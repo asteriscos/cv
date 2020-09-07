@@ -1,0 +1,35 @@
+.progressVisualFull {
+    display: flex;
+    height: 6px;
+    margin: 20px 0;
+}
+
+.progressVisualPart {
+    transition: width 2s;
+}
+
+.references {
+    font-size: 13px;
+    color: #ccc;
+    margin-bottom: 2rem;
+
+    li {
+        display: inline-block;
+        margin-left: 10px;
+
+        &:first-child {
+            margin-left: 0;
+        }
+
+        span.color-ref {
+            display: inline-block;
+            width: 13px;
+            height: 6px;
+            margin-right: 5px;
+
+        }
+
+        span.label-ref {}
+    }
+
+}

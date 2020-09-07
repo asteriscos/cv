@@ -1,0 +1,283 @@
+[{
+        "company": "DataIQ - Qlik Argentina",
+        "period": {
+            "start": "02/2018",
+            "end": "07/2020"
+        },
+        "url": "https://dataiq.com.ar/",
+        "logo": "",
+        "email": "gestiondeltalento@dataiq.com.ar",
+        "contact": "+54 11 4780-3700",
+        "description": {
+            "es": "Fui el primero en estrenar un área nueva en la compañía, cuyo objetivo principal es desarrollar soluciones customizadas que estaban por fuera del servicio estándar. Luego, gracias al esfuerzo, innovación y resultados prometedores, lo que fue un puesto experimental de un sólo hombre, se convirtió en un equipo de 4 programadores encabezado por mi.",
+            "en": "I was a lone pioneer in a brand new área, which has as primary objective to develop customized solutions to out-of-the-box needs. Later, due to hard work, innovation and promising results, what was a experimental one-man job became a stable team of 4 spearheaded by me."
+        },
+        "position": "Lead Web Developer",
+        "responsabilities": {
+            "es": [
+                "Diseñé un sistema de licenciamiento que permitió a la compañía expandir las posibilidades de generar activos.",
+                "Estandaricé y automaticé reportes de compatibilidad anticipando incidencias al publicarse nuevas versiones de Qlik Sense.",
+                "Lideré y entrené un equipo de programadores junior no solo en buenas prácticas técnicas, así como también a desarrollar habilidades blandas."
+            ],
+            "en": [
+                "Designed and developed a licensing system that allowed the company to expand revenue possibilities.",
+                "Standardized and automated compatibility reports to prevent issues in every Qlik Sense release.",
+                "Led and trained junior programmers not only in good programming practises but also helped them develop soft skills."
+            ]
+        },
+        "skills": [
+            [{
+                "name": "ReactJS",
+                "value": 45,
+                "color": "#00C25E"
+            }, {
+                "name": "JQuery",
+                "value": 25,
+                "color": "#569cd6"
+            }, {
+                "name": "HTML & CSS",
+                "value": 30,
+                "color": "#f44747"
+            }],
+            [{
+                    "name": "C#",
+                    "value": 40,
+                    "color": "#6A9955"
+                },
+                {
+                    "name": "NodeJS",
+                    "value": 40,
+                    "color": "#d16969"
+                },
+                {
+                    "name": "MongoDB",
+                    "value": 20,
+                    "color": "#c547bb"
+                }
+            ]
+        ]
+    }, {
+        "company": "emBlue Email Marketing",
+        "period": {
+            "start": "06/2015",
+            "end": "08/2017"
+        },
+        "url": "https://www.embluemail.com",
+        "email": "jmd@embluemail.com",
+        "contact": "+54 11 4136-3500",
+        "description": {
+            "en": "Developed the web interface of the company's star application, as well as serveral server-side features.",
+            "es": "Desarrollé la interfaz web y varias funcionalidades de la aplicación estrella de la compañía."
+        },
+        "position": "Full Stack Developer",
+        "responsabilities": {
+            "en": [
+                "Removed redundant requests to the server, reducing 30% the response time.",
+                "Optimized SQL queries improving data retrieval delays by 25%.",
+                "Developed web tools for the customer support team, which led to happier customers and a less stressed customer support area."
+            ],
+            "es": [
+                "Eliminé peticiones al servidor redundantes, reduciendo un 30% los tiempos de respuesta.",
+                "Optimicé consultas SQL mejorando la demora en generar reportes en un 25%.",
+                "Desarrollé herramientas web para el equipo de soporte al cliente, las cuales mejoraron la calidad del servicio al cliente y redujeron el estrés del equipo de soporte."
+            ]
+        },
+        "skills": [
+            [{
+                "name": "HTML & CSS",
+                "value": 45,
+                "color": "#C25E00"
+            }, {
+                "name": "JQuery",
+                "value": 55,
+                "color": "#569cd6"
+            }],
+            [{
+                    "name": "C#",
+                    "value": 50,
+                    "color": "#6A9955"
+                },
+                {
+                    "name": "SQL",
+                    "value": 50,
+                    "color": "#4EC9B0"
+                }
+            ]
+        ]
+    }, {
+        "company": "Soft Data Technology",
+        "period": {
+            "start": "04/2014",
+            "end": "05/2015"
+        },
+        "contact": "+54 11 4766-6770",
+        "url": "http://www.soft-data.com",
+        "email": "soporte@soft-data.com",
+        "description": {
+            "en": "Being part of a small web development team allowed me to experience the whole creative process of sketching from scratch, designing and developing an e-commerce and a CMS.",
+            "es": "Ser parte de un equipo pequeño de desarrollo web me permitió experimentar todo el proceso creativo desde hacer el borrador, diseñar y desarrollar un e-commerce y un CMS."
+        },
+        "position": "Full Stack Developer",
+        "responsabilities": {
+            "en": [
+                "Designed a pre-rendering caching system, cutting down rendering times by half.",
+                "Developed a small vainilla javascript library to handle image galleries.",
+                "Simplified the web apps installation by implementing a PHP template pattern."
+            ],
+            "es": [
+                "Diseñé un sistema cacheo pre-renderizado que agilizó los tiempos de renderizado del sitio web a la mitad.",
+                "Desarrollé una pequeña biblioteca javacript que gestionaba galerías de imágenes.",
+                "Simplifiqué la instalación de las aplicaciones web al implementar un patrón de plantillas en PHP."
+            ]
+        },
+        "skills": [
+            [{
+                "name": "HTML & CSS",
+                "value": 45,
+                "color": "#f44747"
+            }, {
+                "name": "Javascript",
+                "value": 65,
+                "color": "#16825D"
+            }],
+            [{
+                    "name": "C++",
+                    "value": 20,
+                    "color": "#C25E00"
+                }, {
+                    "name": "PHP",
+                    "value": 40,
+                    "color": "#cf9e21"
+                },
+                {
+                    "name": "SQL",
+                    "value": 40,
+                    "color": "#4EC9B0"
+                }
+            ]
+        ]
+    }, {
+        "company": "Service scholarship of the National Technological University",
+        "period": {
+            "start": "03/2013",
+            "end": "03/2014"
+        },
+        "contact": "",
+        "description": {
+            "en": "Developed an internal-use PHP web platform, designed to manage university's electrical engineering research.",
+            "es": "Desarrollé una plataforma de uso interno en PHP, diseñada para administrar investigaciones de ingeniería eléctrica de la universidad."
+        },
+        "position": "Full Stack Developer",
+        "responsabilities": {
+            "es": [],
+            "en": []
+        },
+        "skills": [
+            [{
+                "name": "HTML & CSS",
+                "value": 30,
+                "color": "#f44747"
+            }, {
+                "name": "JQuery",
+                "value": 40,
+                "color": "#569cd6"
+            }, {
+                "name": "Javascript",
+                "value": 30,
+                "color": "#16825D"
+            }],
+            [{
+                    "name": "PHP",
+                    "value": 80,
+                    "color": "#cf9e21"
+                },
+                {
+                    "name": "SQL",
+                    "value": 20,
+                    "color": "#4EC9B0"
+                }
+            ]
+        ]
+    },
+    {
+        "company": "Soft Data Technology",
+        "period": {
+            "start": "12/2011",
+            "end": "02/2013"
+        },
+        "contact": "+54 11 4766-6770",
+        "url": "http://www.soft-data.com",
+        "email": "soporte@soft-data.com",
+        "description": {
+            "en": "Being part of a small web development team allowed me to experience the whole creative process of sketching from scratch, designing and developing an e-commerce and a CMS.",
+            "es": "Ser parte de un equipo pequeño de desarrollo web me permitió experimentar todo el proceso creativo desde hacer el borrador, diseñar y desarrollar un e-commerce y un CMS."
+        },
+        "position": "Full Stack Developer",
+        "responsabilities": {
+            "en": [
+                "Designed a pre-rendering caching system, cutting down rendering times by half.",
+                "Developed a small vainilla javascript library to handle image galleries.",
+                "Simplified the web apps installation by implementing a PHP template pattern."
+            ],
+            "es": [
+                "Diseñé un sistema cacheo pre-renderizado que agilizó los tiempos de renderizado del sitio web a la mitad.",
+                "Desarrollé una pequeña biblioteca javacript que gestionaba galerías de imágenes.",
+                "Simplifiqué la instalación de las aplicaciones web al implementar un patrón de plantillas en PHP."
+            ]
+        },
+        "skills": [
+            [{
+                "name": "HTML & CSS",
+                "value": 45,
+                "color": "#f44747"
+            }, {
+                "name": "Javascript",
+                "value": 65,
+                "color": "#16825D"
+            }],
+            [{
+                    "name": "PHP",
+                    "value": 50,
+                    "color": "#cf9e21"
+                },
+                {
+                    "name": "SQL",
+                    "value": 50,
+                    "color": "#4EC9B0"
+                }
+            ]
+        ]
+    }, {
+        "company": "Equinoxe S.A.",
+        "period": {
+            "start": "01/2011",
+            "end": "11/2011"
+        },
+        "url": "https://www.equinoxe.com.ar",
+        "contact": "+54 11 5173-5050",
+        "description": {
+            "en": "Tier 2 Technical Support. Handled all sorts of technical issues: TCP IP Network, Windows Active Directory managment, VoIP, printers maintenance, vpn configuration, malware cleaning.",
+            "es": "Soporte técnico nivel 2. Solucionaba todo tipo de problemas técnicos: Redes TCP IP, administración del Windows Active Directory, VoIP, mantenimiento de impresoras, configuración de VPNs, limpieza de malware."
+        },
+        "responsabilities": {
+            "es": [],
+            "en": []
+        }
+    }, {
+        "company": "Namastek, Informatic Solutions",
+        "period": {
+            "start": "08/2006",
+            "end": "12/2010"
+        },
+        "contact": "+54 11 4799-3022",
+        "description": {
+            "en": "This was a personal project. A couple of friends and I built a startup to sell hardware and IT support services. It has been a very nourishing experience to see how creativity and hard work pay off, as we raised from nothing to have a small sustainable business.",
+            "es": "Startup que fue un proyecto personal con un grupo de amigos, en el que vendiamos hardware y servicio de soporte técnico. Fue una experiencia muy enriquecedora ver cómo la creatividad y el esfuerzo rinden frutos, siendo que nació de la nada misma y se transformó en una pequeña empresa sustentable."
+        },
+        "position": "IT Guy",
+        "responsabilities": {
+            "es": [],
+            "en": []
+        }
+    }
+]

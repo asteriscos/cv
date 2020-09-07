@@ -1,0 +1,18 @@
+.lang-wrapper {
+    flex: 0;
+    -webkit-perspective: 1000;
+    padding-left: 10px;
+
+    div {
+        cursor: pointer;
+        // &.slide-bck-center:hover {
+        //     -webkit-animation: slide-bck-center-r 0.15s cubic-bezier(0.470, 0.000, 0.745, 0.715) both;
+	    //     animation: slide-bck-center-r 0.15s cubic-bezier(0.470, 0.000, 0.745, 0.715) both;
+        // }
+
+            img {
+                vertical-align: middle;
+            }
+
+    }
+}
