@@ -37,7 +37,6 @@ const renderTooltipContent = (o) => {
 
   return (
     <div className="customized-tooltip-content">
-      {/* <p className="total">{`${label} (Total: ${total})`}</p> */}
       <ul className="list">
         {payload &&
           payload.map((entry, index) => (

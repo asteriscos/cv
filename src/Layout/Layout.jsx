@@ -20,11 +20,6 @@ const Layout = function () {
         <section id="education">
           <Education />
         </section>
-        {/* <Switch>
-          <Route exact path={"/"} component={About} />
-          <Route exact path={"/experiences"} component={Experiences} />
-          <Route exact path={"/education"} component={Education} />
-        </Switch> */}
       </div>
     </div>
   );

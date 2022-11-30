@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from "react";
 
 export default function (props) {
-  const selectedTitle = props.items && props.items.length ? props.items[0] : "";
-  //   let [items, setItems] = useState(props.items);
   let [selected, setSelected] = useState(0);
 
   useEffect(() => {
@@ -14,7 +12,6 @@ export default function (props) {
 
   return (
     <div className="selector">
-      {/* <div className="selected">{props.items && props.items.length&&props.items[selected]}</div> */}
       <ul className="selected">
         {props.items.map((item, key) => (
           <li
